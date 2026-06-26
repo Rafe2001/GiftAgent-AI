@@ -1,0 +1,157 @@
+[
+  {
+    "name": "Aarav Mehta",
+    "role": "VP Sales",
+    "company": "Acme Corp",
+    "location": "Bengaluru, India",
+    "linkedin_profile": {
+      "headline": "VP Sales at Acme Corp | Enterprise SaaS | GTM Leadership",
+      "about": "I enjoy building high-performing revenue teams and scaling SaaS businesses across India and Southeast Asia.",
+      "experience": [
+        {
+          "title": "VP Sales",
+          "company": "Acme Corp",
+          "description": "Leading enterprise sales, strategic accounts, and GTM expansion."
+        },
+        {
+          "title": "Regional Sales Director",
+          "company": "Salesforce",
+          "description": "Managed enterprise accounts across BFSI and retail."
+        }
+      ],
+      "recent_posts": [
+        "Great sales teams are built on trust, coaching, and consistency.",
+        "India's SaaS ecosystem is entering an exciting new phase.",
+        "Still recovering from yesterday's India vs Australia match. What a game!"
+      ],
+      "recent_comments": [
+        "Completely agree — pipeline discipline matters more than heroic end-of-quarter selling.",
+        "Loved this take on customer-led growth.",
+        "Cricket teaches leadership better than most management books."
+      ],
+      "engaged_topics": [
+        "Cricket",
+        "Revenue leadership",
+        "SaaS GTM",
+        "Customer-led growth",
+        "Team building"
+      ]
+    },
+    "relationship_context": {
+      "relationship_type": "Prospective customer",
+      "last_interaction": "Positive discovery call last week",
+      "business_goal": "Nurture relationship before follow-up meeting"
+    },
+    "gift_context": {
+      "occasion": "Post-meeting thank you",
+      "budget_min": 3000,
+      "budget_max": 5000,
+      "currency": "INR",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Sarah Chen",
+    "role": "CTO",
+    "company": "NovaTech Solutions",
+    "location": "San Francisco, USA",
+    "linkedin_profile": {
+      "headline": "CTO at NovaTech | AI/ML | Building the future of developer tools",
+      "about": "Passionate about developer experience, open-source, and making AI accessible to every engineering team.",
+      "experience": [
+        {
+          "title": "CTO",
+          "company": "NovaTech Solutions",
+          "description": "Leading engineering and product for an AI-powered developer tools platform."
+        },
+        {
+          "title": "Senior Engineering Manager",
+          "company": "Google",
+          "description": "Managed Cloud AI/ML platform teams."
+        }
+      ],
+      "recent_posts": [
+        "The best developer tools disappear — they feel like a natural extension of your workflow.",
+        "Just finished reading 'Staff Engineer' by Will Larson. Highly recommend for anyone navigating the IC leadership track.",
+        "Weekend project: building a mechanical keyboard from scratch. Cherry MX Blues forever."
+      ],
+      "recent_comments": [
+        "Open-source is the best moat in developer tools.",
+        "This is a great framework for thinking about platform engineering maturity.",
+        "The SF coffee scene never disappoints — tried Sightglass on 7th St today."
+      ],
+      "engaged_topics": [
+        "AI/ML",
+        "Developer tools",
+        "Open-source",
+        "Mechanical keyboards",
+        "Specialty coffee",
+        "Engineering leadership"
+      ]
+    },
+    "relationship_context": {
+      "relationship_type": "Strategic partner",
+      "last_interaction": "Successful integration demo last month",
+      "business_goal": "Strengthen partnership ahead of co-marketing initiative"
+    },
+    "gift_context": {
+      "occasion": "Partnership milestone",
+      "budget_min": 40,
+      "budget_max": 75,
+      "currency": "USD",
+      "country": "USA"
+    }
+  },
+  {
+    "name": "Priya Sharma",
+    "role": "Head of Product",
+    "company": "FinLeap Digital",
+    "location": "Mumbai, India",
+    "linkedin_profile": {
+      "headline": "Head of Product at FinLeap Digital | Fintech | Product-Led Growth",
+      "about": "Product leader passionate about building delightful financial products for Bharat. Runner. Bookworm.",
+      "experience": [
+        {
+          "title": "Head of Product",
+          "company": "FinLeap Digital",
+          "description": "Leading product strategy for a digital lending platform serving small businesses."
+        },
+        {
+          "title": "Senior Product Manager",
+          "company": "Razorpay",
+          "description": "Built payment checkout experiences used by 10M+ merchants."
+        }
+      ],
+      "recent_posts": [
+        "The best products solve problems people didn't know they had — until they see the solution.",
+        "Completed my first half marathon last weekend! 21 km in 2:15. Next stop: full marathon.",
+        "Reading 'Thinking in Bets' by Annie Duke — every PM should read this."
+      ],
+      "recent_comments": [
+        "Product-led growth in fintech requires trust as the foundation, not just viral loops.",
+        "This breakdown of activation metrics is gold.",
+        "Running clears my head better than any meditation app."
+      ],
+      "engaged_topics": [
+        "Fintech",
+        "Product-led growth",
+        "Running",
+        "Books",
+        "UX design",
+        "Small business empowerment"
+      ]
+    },
+    "relationship_context": {
+      "relationship_type": "Key customer",
+      "last_interaction": "Quarterly business review — very positive feedback",
+      "business_goal": "Deepen relationship and expand usage"
+    },
+    "gift_context": {
+      "occasion": "Celebrating successful quarter",
+      "budget_min": 2000,
+      "budget_max": 4000,
+      "currency": "INR",
+      "country": "India"
+    }
+  }
+]

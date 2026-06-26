@@ -1,0 +1,16 @@
+# Core
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+
+# Search
+duckduckgo-search
+
+# LangChain ecosystem (installed via project root requirements.txt)
+langgraph
+langchain-groq
+langchain-tavily
+langchain
+langgraph-checkpoint-mongodb
+pymongo

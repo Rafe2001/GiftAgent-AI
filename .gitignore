@@ -1,0 +1,176 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+#  Usually these files are written by a python script before bundling
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Sphinx documentation
+doc/_build/
+
+# PyBuilder
+.pybuilder/
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+#   For a library or package, you might want to ignore these files since the user is
+#   responsible for mapping their own version of python.
+# .python-version
+
+# pipenv
+#   According to pypa/pipenv#1237, pipenv should respect both Pipfile and Pipfile.lock.
+#   For a package, you might want to ignore Pipfile.lock.
+# Pipfile.lock
+
+# poetry
+#   Similar to Pipfile.lock, poetry.lock is generally committed, but can be ignored.
+# poetry.lock
+
+# pdm
+#   Similar to Pipfile.lock, pdm.lock is generally committed, but can be ignored.
+# pdm.lock
+
+# PEP 582; project local packages (this directory is added to sys.path)
+__pypackages__/
+
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.development
+.env.test
+.env.production
+.venv
+venv/
+ENV/
+env/
+ENV/
+env/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# pytype static type checker
+.pytype/
+
+# Cython debug symbols
+cython_debug/
+
+# Node/Next/Yarn/PNPM
+node_modules/
+.next/
+out/
+.yarn/
+.pnp
+.pnp.*
+yarn-error.log*
+npm-debug.log*
+yarn-debug.log*
+.pnpm-debug.log*
+.vercel
+*.tsbuildinfo
+next-env.d.ts
+
+# IDE / Editor config
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+
+# Local application artifacts / scratchpad files
+C:/Users/Abdul Rafe Khan/.gemini/antigravity-ide/
+.agents/
+.gemini/
+
+# PDF files / Assignment documents
+*.pdf
+Assignment.pdf
